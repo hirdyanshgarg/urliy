@@ -428,15 +428,3 @@ URLiy was built to explore and demonstrate practical full-stack engineering conc
 The goal wasn't simply to generate shorter URLs, but to build a small production-style system with multiple components working together reliably.
 
 ---
-
-<div align="center">
-
-**👨‍💻 Rahul Sharma**
-
-Portfolio: https://rash-2137.github.io
-
-GitHub: https://github.com/RASH-2137
-
-[Report Bug](../../issues) · [Request Feature](../../issues) · [Discussions](../../discussions)
-
-</div>
